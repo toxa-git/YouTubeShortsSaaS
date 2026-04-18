@@ -3,7 +3,7 @@
 
 import sys
 from PyQt6.QtWidgets import QApplication
-from YouTubeShortsSaaS.ui_manager import UIManager
+from ui_manager import UIManager
 
 
 def main():
